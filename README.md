@@ -1,6 +1,6 @@
 # Gestor de clientes en Python para Ingeniería
 
-Este es el enlace al [repositorio].(https://github.com/Xavitheforce/Gestor_Clientes)
+Este es el enlace al [repositorio](https://github.com/Xavitheforce/Gestor_Clientes).
 
 Repositorio del proyecto completo del curso de Python.
 
